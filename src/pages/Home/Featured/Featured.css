@@ -1,0 +1,10 @@
+.featuredBG {
+  background-image: url("../../../assets/home/featured.jpg"), linear-gradient(rgba(0, 0, 0, 0.475),rgba(0, 0, 0, 0.606));
+   background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.text-white-important {
+    color: white !important;
+}
