@@ -1,0 +1,23 @@
+.category-img {
+  width: 100%;
+  height: 400px;
+  /* height: 100%; */
+  object-fit: cover;
+  display: inline-block;
+}
+.category-p {
+  text-shadow: 1px 1px 0px #000000;
+}
+
+.swiper-pagination  {
+    margin-bottom: -20px;
+    z-index: 100;
+}
+
+
+@media only screen and (max-width: 600px) {
+  .category-img {
+    height: 100%;
+  }
+}
+
